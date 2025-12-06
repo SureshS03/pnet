@@ -1,0 +1,6 @@
+server side done 
+    - wireGraud (adblocker DNS)
+    - dante Proxy 
+    - fail2ban
+
+
