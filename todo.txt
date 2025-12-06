@@ -3,4 +3,7 @@ server side done
     - dante Proxy 
     - fail2ban
 
+todo
+    - cli (manage all vpn, proxy etc...)
+    - search for sdk or API (wireGraud and dante) or else manage all in commands
 
