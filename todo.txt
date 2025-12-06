@@ -7,3 +7,11 @@ todo
     - cli (manage all vpn, proxy etc...)
     - search for sdk or API (wireGraud and dante) or else manage all in commands
 
+features of cli
+    - start vpn
+    - stop vpn
+    - CRUD for vpn user
+    - start proxy
+    - stop proxy
+    - CRUD for proxy users
+    - firewall config
