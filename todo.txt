@@ -4,8 +4,8 @@ server side done
     - fail2ban
 
 todo
-    - cli (manage all vpn, proxy etc...)
-    - search for sdk or API (wireGraud and dante) or else manage all in commands
+    - start to work on commands
+    - then cli look
 
 features of cli
     - start vpn
